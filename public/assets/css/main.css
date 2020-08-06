@@ -1,0 +1,88 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+.new-post {
+    padding: 16px 0;
+    border-bottom: 1px solid #ccc;
+}
+.new-post header,
+.posts header {
+    margin-bottom: 20px;
+}
+.posts .post {
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border-left: 3px solid #a21b24;
+}
+
+.posts .post .info {
+    color: #aaa;
+    font-style: italic;
+}
+.interaction a {
+    padding: 0 4px;
+}
+
+/*start navbar */
+header nav {
+    background-color: #4dc0b5 !important;
+    color: #ffffff;
+}
+#logo {
+    font-family: "Dancing Script", cursive;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+#collapsibleNavbar {
+    justify-content: flex-end;
+}
+
+#collapsibleNavbar ul li a {
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+#collapsibleNavbar ul li a:hover {
+    text-decoration: underline;
+    font-size: large;
+}
+
+header nav button .fas {
+    font-size: x-large;
+}
+
+#footer {
+    background-color: #179393;
+}
+.footer-copyright {
+    color: #ffffff !important;
+}
+
+.fab {
+    color: #000000 !important;
+}
+
+.fab:hover {
+    color: #646464 !important;
+}
+
+#main-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 160px; /* Footer height */
+}
+/* input field width */
+.form-group input {
+    width: 75% !important;
+}
