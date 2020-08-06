@@ -35,6 +35,6 @@
   <div class="footer-copyright text-center pt-3 mb-1">© Copyright 2020 Friendspace. All Rights Reserved.  </div>
   <!-- Copyright -->
 
-  <div class="footer-copyright text-center bg-dark py-2">Designed And Created by Abhinav Srivastava. e-mail: abhinavsrivastv@gmail.com</div>
+  <div class="footer-copyright text-center bg-dark py-2">Designed and Created by Abhinav Srivastava. e-mail: abhinavsrivastv@gmail.com</div>
 
 </footer>
